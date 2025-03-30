@@ -1,0 +1,40 @@
+@media(min-width : 300px) and (max-width : 600px)
+{
+    .MultipleCardRender-ParentContainer
+    {
+        margin-bottom: 2rem;
+        box-shadow: 4px 4px 10px #c2d3b2;
+    }
+    .add-items-button
+    {
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+    }
+}
+@media(min-width : 600px) and (max-width : 1000px)
+{
+    .MultipleCardRender-ParentContainer
+    {
+        margin-bottom: 2rem;
+        box-shadow: 4px 4px 10px #c2d3b2;
+    }
+    .add-items-button
+    {
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+    }
+}
+
+@media(min-width : 1000px)
+{
+    .MultipleCardRender-ParentContainer
+    {
+        margin-bottom: 2rem;
+        box-shadow: 4px 4px 10px #c2d3b2;
+    }
+    .add-items-button
+    {
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+    }
+}

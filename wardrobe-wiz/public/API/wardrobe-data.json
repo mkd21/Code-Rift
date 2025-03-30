@@ -1,0 +1,35 @@
+[
+    {
+        "ParentId" : 1 , "type" : "Tshirt",
+        "AvailableCollection" : [
+            { "childId": 111, "url": "../Wardrobe-images/Tshirt-Collections/t1.jpg" },
+            { "childId": 121, "url": "../Wardrobe-images/Tshirt-Collections/t2.jpg" },
+            { "childId": 131, "url": "../Wardrobe-images/Tshirt-Collections/t3.jpg" },
+            { "childId": 141, "url": "../Wardrobe-images/Tshirt-Collections/t4.jpg" },
+            { "childId": 151, "url": "../Wardrobe-images/Tshirt-Collections/t5.jpg" },
+            { "childId": 161, "url": "../Wardrobe-images/Tshirt-Collections/t6.jpg" }
+        ]
+    },
+    {
+        "ParentId" : 2 , "type" : "Jeans",
+        "AvailableCollection" : [
+            { "childId": 212, "url": "../Wardrobe-images/Jeans-Collections/jeans-1.jpg" },
+            { "childId": 222, "url": "../Wardrobe-images/Jeans-Collections/jeans-2.jpg" },
+            { "childId": 232, "url": "../Wardrobe-images/Jeans-Collections/jeans-3.jpg" },
+            { "childId": 242, "url": "../Wardrobe-images/Jeans-Collections/jeans-4.jpg" },
+            { "childId": 252, "url": "../Wardrobe-images/Jeans-Collections/jeans-5.jpg" },
+            { "childId": 262, "url": "../Wardrobe-images/Jeans-Collections/jeans-6.jpg" }
+        ]
+    },
+    {
+        "ParentId" : 3 , "type" : "Shoes",
+        "AvailableCollection" : [
+            { "childId": 313, "url": "../Wardrobe-images/Shoes-Collections/Shoe-1.jpg" },
+            { "childId": 323, "url": "../Wardrobe-images/Shoes-Collections/Shoe-2.jpg" },
+            { "childId": 333, "url": "../Wardrobe-images/Shoes-Collections/Shoe-3.jpg" },
+            { "childId": 343, "url": "../Wardrobe-images/Shoes-Collections/Shoe-4.jpg" },
+            { "childId": 353, "url": "../Wardrobe-images/Shoes-Collections/Shoe-5.jpg" },
+            { "childId": 363, "url": "../Wardrobe-images/Shoes-Collections/Shoe-6.jpg" }
+        ]
+    }
+]

@@ -1,0 +1,27 @@
+@media(min-width : 300px) and (max-width : 600px)
+{
+    .filter-section-header
+    {
+        font-size: 1.7rem;
+        font-weight: 700;
+        text-shadow: 2px 2px 14px darkgreen;
+    }
+}
+@media(min-width : 600px) and (max-width : 1000px)
+{
+    .filter-section-header
+    {
+        font-size: 1.7rem;
+        font-weight: 700;
+        text-shadow: 2px 2px 14px darkgreen;
+    }
+}
+@media(min-width : 1000px)
+{
+    .filter-section-header
+    {
+        font-size: 1.7rem;
+        font-weight: 700;
+        text-shadow: 2px 2px 14px darkgreen;
+    }
+}

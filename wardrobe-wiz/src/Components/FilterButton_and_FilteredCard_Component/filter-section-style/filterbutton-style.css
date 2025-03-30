@@ -1,0 +1,46 @@
+@media(min-width : 300px) and (max-width : 600px)
+{
+    .options-styles
+    {
+        background-color: aqua;
+    }
+    .options-styles :hover 
+    {
+        cursor: pointer;
+    }
+    .dropdown-btn
+    {
+        width: 13rem;
+    }
+}
+@media(min-width : 600px) and (max-width : 1000px)
+{
+    .options-styles
+    {
+        background-color: aqua;
+    }
+    .options-styles :hover 
+    {
+        cursor: pointer;
+    }
+    .dropdown-btn
+    {
+        width: 20rem;
+    }
+}
+
+@media(min-width : 1000px)
+{
+    .options-styles
+    {
+        background-color: aqua;
+    }
+    .options-styles :hover 
+    {
+        cursor: pointer;
+    }
+    .dropdown-btn
+    {
+        width: 20rem;
+    }
+}
